@@ -1,0 +1,78 @@
+body {
+   background-image: url(https://pixabay.com/static/uploads/photo/2014/05/16/09/19/milky-way-345458_960_720.jpg);
+   background-size: cover;
+   background-repeat: no-repeat;
+}
+
+#nav {
+    list-style-type: none;
+    background-color: #0080ff;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+   float: left; 
+}
+
+li a {
+    font-family: 'Alegreya Sans', sans-serif;
+    display: block;
+    text-decoration: none;
+    color: #000099;
+    text-align: center;
+    padding: 14px 16px;
+}
+li a:hover {
+    background-color: #004d99;
+    color: #cce6ff;
+}
+
+#title {
+    font-family: 'Walter Turncoat', cursive;
+    color: #66b5ff;
+    font-size: 2.5em
+}
+#subtitle {
+   font-family: 'Alegreya Sans', sans-serif;
+    font-size: 1.8em;
+    color: #66b5ff;
+}
+#scigirl {
+    width: 414px;
+    height: 299px;
+}
+#mind {
+    width: 300px;
+}
+#star {
+    font-size: 2em;
+    color: #0080ff;
+    font-family: 'Alegreya Sans', sans-serif;
+}
+#def {
+    font-size: 1.5em;
+    color: #0080ff;
+    font-family: 'Alegreya Sans', sans-serif;
+}
+#about {
+    font-size: 1.2em;
+    color: #66b5ff;
+    font-family: 'Alegreya Sans', sans-serif;
+}
+#signature {
+    font-family: 'Ruthie', cursive;
+    color: #0080ff;
+    font-size: 2.5em
+}
+#topics {
+    font-size: 1.5em;
+    color: #0080ff;
+    font-family: 'Alegreya Sans', sans-serif;
+}
+#thesci {
+     font-size: 1.5em;
+    color: #66b5ff;
+    font-family: 'Alegreya Sans', sans-serif;
+}
