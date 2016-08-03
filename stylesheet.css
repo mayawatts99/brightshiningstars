@@ -101,3 +101,16 @@ li a:hover {
     width: 300px;
     height: 300px;
 }
+#handbook {
+    font-size: 1.5em;
+    color: #0080ff;
+    font-family: 'Alegreya Sans', sans-serif;
+}
+#download {
+     font-size: 1.5em;
+    color: #66b5ff;
+    font-family: 'Alegreya Sans', sans-serif;
+} 
+#arrow {
+    height: 300px;
+}
