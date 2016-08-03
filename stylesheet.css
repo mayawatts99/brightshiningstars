@@ -76,3 +76,28 @@ li a:hover {
     color: #66b5ff;
     font-family: 'Alegreya Sans', sans-serif;
 }
+#math {
+    border-radius: 50%;
+    width:300px;
+    height: 300px;
+}
+#eng {
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+}
+#chem {
+    border-radius: 50%;
+    width:300px;
+    height: 300px;
+}
+#physics {
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+}
+#astro {
+    border-radius:50%;
+    width: 300px;
+    height: 300px;
+}
